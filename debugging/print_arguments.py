@@ -1,4 +1,3 @@
-cat > print_arguments.py << 'EOF'
 #!/usr/bin/python3
 import sys
 
